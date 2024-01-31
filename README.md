@@ -51,42 +51,42 @@ Without further ado, here is my learning road map. Resources marked with a dolla
 
 ### Front-end basics
 
-- [x] Learn some HTML, CSS, and JS: [The Odin Project - Foundations path](https://www.theodinproject.com/paths/foundations/courses/foundations) or resources under ["Front end"](#front-end) below.
-- [x] Build a blog from scratch. [Here's the first iteration of my blog](https://fpsvogel-2020.netlify.app), and [here's how I built it](https://fpsvogel.com/posts/2020/zs). Building a blog is not only a good exercise in itself, but it might also give you extra motivation to write about what you learn.
+- [ ] Learn some HTML, CSS, and JS: [The Odin Project - Foundations path](https://www.theodinproject.com/paths/foundations/courses/foundations) or resources under ["Front end"](#front-end) below.
+- [ ] Build a blog from scratch. [Here's the first iteration of my blog](https://fpsvogel-2020.netlify.app), and [here's how I built it](https://fpsvogel.com/posts/2020/zs). Building a blog is not only a good exercise in itself, but it might also give you extra motivation to write about what you learn.
 
 ### Ruby basics
 
 - **Basics:**
-  - [x] [The Odin Project - Ruby](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby) <!-- https://avatars.githubusercontent.com/u/4441966?s=280 -->
-  - [x] [GoRails - Ruby for Beginners](https://gorails.com/series/ruby-for-beginners) if you prefer videos. <!-- https://d2i2nj5el4wq1j.cloudfront.net/assets/logo-square-4991bf3ca2f693e197dea82ce6d287f10cfbc229f7ac3ad19d1619f030b77266.png -->
-  - [x] [Try Ruby](https://try.ruby-lang.org/) and [BigBinary Academy](https://academy.bigbinary.com/learn-ruby) if you prefer an interactive approach.
+  - [ ] [The Odin Project - Ruby](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby) <!-- https://avatars.githubusercontent.com/u/4441966?s=280 -->
+  - [ ] [GoRails - Ruby for Beginners](https://gorails.com/series/ruby-for-beginners) if you prefer videos. <!-- https://d2i2nj5el4wq1j.cloudfront.net/assets/logo-square-4991bf3ca2f693e197dea82ce6d287f10cfbc229f7ac3ad19d1619f030b77266.png -->
+  - [ ] [Try Ruby](https://try.ruby-lang.org/) and [BigBinary Academy](https://academy.bigbinary.com/learn-ruby) if you prefer an interactive approach.
 - **Guided practice:**
-  - [x] [Exercism - Ruby](https://exercism.org/tracks/ruby). Be sure to take notes each time you learn something new in an exercise, and at the end you could write up your reflections ([here are mine](https://fpsvogel.com/posts/2020/exercism-ruby)).
+  - [ ] [Exercism - Ruby](https://exercism.org/tracks/ruby). Be sure to take notes each time you learn something new in an exercise, and at the end you could write up your reflections ([here are mine](https://fpsvogel.com/posts/2020/exercism-ruby)).
 - **OOP (object-oriented programming):**
-  - [x] 💲[Sandi Metz - Practical Object-Oriented Design](https://www.poodr.com)
-  - [x] 💲[Sandi Metz & Katrina Owen - 99 Bottles of OOP](https://sandimetz.com/99bottles-sample-ruby)
+  - [ ] 💲[Sandi Metz - Practical Object-Oriented Design](https://www.poodr.com)
+  - [ ] 💲[Sandi Metz & Katrina Owen - 99 Bottles of OOP](https://sandimetz.com/99bottles-sample-ruby)
 - **Build stuff with Ruby.** Here are some ideas:
   - A CLI (command-line interface) app. I made [one that gives statistics on a reading log](https://fpsvogel.com/posts/2021/my-first-ruby-app-lessons-learned).
   - A game. See the [Games in Ruby](#games-in-ruby) section.
   - A static site. [Bridgetown](https://github.com/bridgetownrb/bridgetown) is great for (among other things) building static sites, which are simpler than SSR (server-side rendered) sites à la Rails. Maybe [rebuild your blog](https://fpsvogel.com/posts/2021/build-a-blog-with-bridgetown)? Be sure to [join the Bridgetown Discord server](https://discord.gg/Cugms94QFM)—the maintainers are very welcoming and helpful to newbies.
   - More ideas: [Coding Challenges](https://codingchallenges.fyi), [Build your own X](https://github.com/codecrafters-io/build-your-own-x), [Projectbook](https://projectbook.code.brettchalupa.com), [Project-based learning](https://github.com/practical-tutorials/project-based-learning#ruby)
 - **Reference:**
-  - [x] [Ruby API](https://rubyapi.org). Mentioning it up here because it's the best Ruby docs site but very little-known. Since its search uses a query param, you can add a search keyword to your browser to let you quickly search from the address bar, for example "rb partition" would take you to https://rubyapi.org/3.2/o/s?q=partition
+  - [ ] [Ruby API](https://rubyapi.org). Mentioning it up here because it's the best Ruby docs site but very little-known. Since its search uses a query param, you can add a search keyword to your browser to let you quickly search from the address bar, for example "rb partition" would take you to https://rubyapi.org/3.2/o/s?q=partition
 
 ### Rails basics
 
 Only books and courses are listed below, but be sure to *build things* as you learn. I myself [started building a large-ish Rails app](https://fpsvogel.com/posts/2021/first-rails-app-plain-reading) at first, but then I found it more helpful to build a series of small throwaway apps ([1](https://fpsvogel.com/posts/2021/gpt3-ai-story-writer), [2](https://fpsvogel.com/posts/2021/wikipedia-explorer-discover-articles-like-stumbleupon), [3](https://fpsvogel.com/posts/2021/pass-the-story-collaborative-writing-game), [4](https://fpsvogel.com/posts/2022/doctor-lookup-health-provider-search-tool)).
 
 - **Rails basics:**
-  - [x] [GoRails - Build a Blog with Ruby on Rails](https://gorails.com/series/build-a-blog-with-rails-7)
-  - [x] [The Odin Project - Rails](https://www.theodinproject.com/paths/full-stack-ruby-on-rails)
+  - [ ] [GoRails - Build a Blog with Ruby on Rails](https://gorails.com/series/build-a-blog-with-rails-7)
+  - [ ] [The Odin Project - Rails](https://www.theodinproject.com/paths/full-stack-ruby-on-rails)
 - **Testing:**
-  - [x] 💲[Jason Swett - The Complete Guide to Rails Testing](https://www.codewithjason.com/complete-guide-to-rails-testing/)
-  - [x] [thoughtbot - Testing Rails](https://github.com/thoughtbot/testing-rails) or [the summary blog post](https://thoughtbot.com/blog/how-we-test-rails-applications)
-  - [x] 💲[Effective Testing with RSpec 3](https://pragprog.com/titles/rspec3/effective-testing-with-rspec-3/)
-  - [x] 💲[The Minitest Cookbook](https://chriskottom.com/minitestcookbook)
+  - [ ] 💲[Jason Swett - The Complete Guide to Rails Testing](https://www.codewithjason.com/complete-guide-to-rails-testing/)
+  - [ ] [thoughtbot - Testing Rails](https://github.com/thoughtbot/testing-rails) or [the summary blog post](https://thoughtbot.com/blog/how-we-test-rails-applications)
+  - [ ] 💲[Effective Testing with RSpec 3](https://pragprog.com/titles/rspec3/effective-testing-with-rspec-3/)
+  - [ ] 💲[The Minitest Cookbook](https://chriskottom.com/minitestcookbook)
 - **Polishing up:**
-  - [x] [Style guides](https://ruby.style/) for Ruby, Rails, and RSpec
+  - [ ] [Style guides](https://ruby.style/) for Ruby, Rails, and RSpec
 
 ### Getting hired
 
@@ -117,13 +117,13 @@ Here are some places where you can learn with others or ask questions when you g
 ### SQL
 
 - **Basics:**
-  - [x] [SQL Teaching](https://www.sqlteaching.com)
-  - [x] [SQLBolt](https://sqlbolt.com)
-  - [x] [Select Star SQL](https://selectstarsql.com)
-  - [x] [SQL Murder Mystery](https://mystery.knightlab.com/)
-  - [x] [SQLZoo](https://sqlzoo.net/wiki/SQL_Tutorial)
+  - [ ] [SQL Teaching](https://www.sqlteaching.com)
+  - [ ] [SQLBolt](https://sqlbolt.com)
+  - [ ] [Select Star SQL](https://selectstarsql.com)
+  - [ ] [SQL Murder Mystery](https://mystery.knightlab.com/)
+  - [ ] [SQLZoo](https://sqlzoo.net/wiki/SQL_Tutorial)
 - **Advanced:**
-  - [x] [Next-Level Database Techniques for Developers](https://sqlfordevs.com/ebook)
+  - [ ] [Next-Level Database Techniques for Developers](https://sqlfordevs.com/ebook)
   - [ ] 💲[SQL Antipatterns, Volume 1](https://pragprog.com/titles/bksap1/sql-antipatterns-volume-1/)
   - [ ] [Markus Winand - Use the Index, Luke!](https://use-the-index-luke.com/sql/preface)
   - [ ] 💲[Markus Winand - SQL Performance Explained](https://sql-performance-explained.com)
@@ -139,19 +139,19 @@ Here are some places where you can learn with others or ask questions when you g
 ### Git
 
 - **Basics:**
-  - [x] [Oh My Git!](https://ohmygit.org/)
-  - [x] [Oh Shit, Git!?!](https://ohshitgit.com/)
-  - [x] [Git Katas](https://github.com/eficode-academy/git-katas)
-  - [x] [The Git Parable](https://youtube.com/watch?v=ANNboouhNHE)
-  - [x] [Git Flight Rules](https://github.com/k88hudson/git-flight-rules)
+  - [ ] [Oh My Git!](https://ohmygit.org/)
+  - [ ] [Oh Shit, Git!?!](https://ohshitgit.com/)
+  - [ ] [Git Katas](https://github.com/eficode-academy/git-katas)
+  - [ ] [The Git Parable](https://youtube.com/watch?v=ANNboouhNHE)
+  - [ ] [Git Flight Rules](https://github.com/k88hudson/git-flight-rules)
 - **Advanced:**
-  - [x] [thoughtbot - Rebuilding Git in Ruby](https://thoughtbot.com/blog/rebuilding-git-in-ruby)
+  - [ ] [thoughtbot - Rebuilding Git in Ruby](https://thoughtbot.com/blog/rebuilding-git-in-ruby)
   - [ ] [Pro Git](https://git-scm.com/book)
   - [ ] 💲[Building Git](https://shop.jcoglan.com/building-git)
 
 ### How the Internet works
 
-- [x] 💲[Computer Networking: A Top-Down Approach](https://gaia.cs.umass.edu/kurose_ross/eighth.htm)
+- [ ] 💲[Computer Networking: A Top-Down Approach](https://gaia.cs.umass.edu/kurose_ross/eighth.htm)
 - [ ] [Computer Networks from Scratch](https://www.networksfromscratch.com) (WIP, and possibly abandoned because Ch. 5 has been "coming soon" for a year now)
 - [ ] [MDN Web Doc on HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP)
 - [ ] 💲[Web Security for Developers: Real Threats, Practical Defense](https://www.amazon.com/Web-Security-Developers-Malcolm-McDonald-ebook/dp/B07V78WH7V) and the accompanying site [Hacksplaining](https://www.hacksplaining.com/)
@@ -163,7 +163,7 @@ Here are some places where you can learn with others or ask questions when you g
 
 ### Linux / command line
 
-- [x] Install and use Linux. [My post on switching to Linux](https://fpsvogel.com/posts/2023/switch-to-linux-from-windows) might give you some pointers.
+- [ ] Install and use Linux. [My post on switching to Linux](https://fpsvogel.com/posts/2023/switch-to-linux-from-windows) might give you some pointers.
 - [ ] 💲[Unix: A History and a Memoir](https://www.cs.princeton.edu/~bwk/memoir.html)
 - [ ] 💲[How Linux Works](https://nostarch.com/howlinuxworks3)
 - [ ] [The Linux Command Line](https://linuxcommand.org/tlcl.php)
@@ -185,26 +185,26 @@ Here are some places where you can learn with others or ask questions when you g
   - [ ] [RuboCop performance rules](https://github.com/rubocop/rubocop-performance)
   - [ ] [RuboCop security rules](https://docs.rubocop.org/rubocop/cops.html#department-security)
 - **Scripting:**
-  - [x] [Enhanced Shell Scripting with Ruby](https://www.devdungeon.com/content/enhanced-shell-scripting-ruby)
-  - [x] 💲[Text Processing with Ruby](https://pragprog.com/titles/rmtpruby/text-processing-with-ruby)
-  - [x] [Ruby Regexp](https://learnbyexample.github.io/Ruby_Regexp)
-  - [x] [Ruby one-liners cookbook](https://learnbyexample.github.io/learn_ruby_oneliners/)
-  - [x] Tools for Ruby on the command line: [ru](https://github.com/tombenner/ru), [rb](https://github.com/thisredone/rb), [pru](https://github.com/grosser/pru), [rexe](https://github.com/keithrbennett/rexe)
+  - [ ] [Enhanced Shell Scripting with Ruby](https://www.devdungeon.com/content/enhanced-shell-scripting-ruby)
+  - [ ] 💲[Text Processing with Ruby](https://pragprog.com/titles/rmtpruby/text-processing-with-ruby)
+  - [ ] [Ruby Regexp](https://learnbyexample.github.io/Ruby_Regexp)
+  - [ ] [Ruby one-liners cookbook](https://learnbyexample.github.io/learn_ruby_oneliners/)
+  - [ ] Tools for Ruby on the command line: [ru](https://github.com/tombenner/ru), [rb](https://github.com/thisredone/rb), [pru](https://github.com/grosser/pru), [rexe](https://github.com/keithrbennett/rexe)
 - **Concurrency:**
   - [ ] [Jesse Storimer - Working with Ruby Threads](https://workingwithruby.com/wwrt/intro)
   - [ ] [Async Ruby](https://brunosutic.com/blog/async-ruby)
 - **Learn other app frameworks:** Jobs in Ruby are mostly in Rails, but it's still valuable to broaden my horizons and learn different approaches.
-  - [x] [Roda](https://roda.jeremyevans.net/) via [an example Roda app using Hotwire](https://github.com/janko/budget)
+  - [ ] [Roda](https://roda.jeremyevans.net/) via [an example Roda app using Hotwire](https://github.com/janko/budget)
   - [ ] [Hanami](https://hanamirb.org/). Learn it with [Hanami Mastery](https://hanamimastery.com) and example apps found in GitHub repo searches ([1](https://github.com/search?q=hanami+example+pushed%3A%3E2022-01-01&type=repositories), [2](https://github.com/search?q=hanami+app+pushed%3A%3E2022-01-01&type=repositories), [3](https://github.com/search?q=hanami+application+pushed%3A%3E2022-01-01&type=repositories), [4](https://github.com/search?q=hanami+software+pushed%3A%3E2022-01-01&type=repositories)).
 
 ### Advanced Rails
 
 - **Reference:**
-  - [x] 💲[Noah Gibbs - Rebuilding Rails](http://rebuilding-rails.com/)
+  - [ ] 💲[Noah Gibbs - Rebuilding Rails](http://rebuilding-rails.com/)
   - [ ] [Rails Guides](https://guides.rubyonrails.org/)
   - [ ] [Rails API docs](https://api.rubyonrails.org/)
 - **Architecture:**
-  - [x] 💲[Layered Design for Ruby on Rails Applications](https://www.amazon.com/Layered-Design-Ruby-Rails-Applications/dp/1801813787)
+  - [ ] 💲[Layered Design for Ruby on Rails Applications](https://www.amazon.com/Layered-Design-Ruby-Rails-Applications/dp/1801813787)
   - [ ] [Develop Single-Machine Rails Applications with LiteStack](https://blog.appsignal.com/series/develop-single-machine-rails-applications-with-litestack.html)
   - [ ] 💲[Learning Domain-Driven Design](https://www.oreilly.com/library/view/learning-domain-driven-design/9781098100124/) (not Rails-specific)
   - [ ] 💲[Gradual Modularization for Ruby and Rails](https://leanpub.com/package-based-rails-applications)
@@ -263,23 +263,23 @@ Here are some places where you can learn with others or ask questions when you g
 ### JS
 
 - **Basics:**
-  - [x] [JavaScript for impatient programmers](https://exploringjs.com/impatient-js/)
-  - [x] [Modern JavaScript Explained For Dinosaurs](https://peterxjang.com/blog/modern-javascript-explained-for-dinosaurs.html)
-  - [x] [What the heck is the event loop anyway?](https://youtube.com/watch?v=8aGhZQkoFbQ)
-  - [x] [MDN - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-  - [x] [lodash](https://lodash.com) and [You Might Not Need Lodash](https://youmightnotneed.com/lodash/)
+  - [ ] [JavaScript for impatient programmers](https://exploringjs.com/impatient-js/)
+  - [ ] [Modern JavaScript Explained For Dinosaurs](https://peterxjang.com/blog/modern-javascript-explained-for-dinosaurs.html)
+  - [ ] [What the heck is the event loop anyway?](https://youtube.com/watch?v=8aGhZQkoFbQ)
+  - [ ] [MDN - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  - [ ] [lodash](https://lodash.com) and [You Might Not Need Lodash](https://youmightnotneed.com/lodash/)
 - **Practice:**
   - [ ] [Exercism - JavaScript](https://exercism.org/tracks/javascript)
   - [ ] Build something in JS, or do [JavaScript30](https://javascript30.com/)
 - **DOM, forms, and other Web APIs:**
-  - [x] [The Modern JavaScript Tutorial - Browser: Document, Events, Interfaces](https://javascript.info/ui)
+  - [ ] [The Modern JavaScript Tutorial - Browser: Document, Events, Interfaces](https://javascript.info/ui)
   - [ ] [MDN - Web forms](https://developer.mozilla.org/en-US/docs/Learn/Forms)
   - [ ] [web.dev - Learn Forms](https://web.dev/learn/forms)
   - [ ] [MDN - Web APIs](https://developer.mozilla.org/en-US/docs/Web/API)
 - **React:**
-  - [x] [React "Learn" docs](https://react.dev/learn)
+  - [ ] [React "Learn" docs](https://react.dev/learn)
 - **Going deeper:**
-  - [x] [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS). Be sure to read the last three parts after they're finished. #TODO
+  - [ ] [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS). Be sure to read the last three parts after they're finished. #TODO
   - [ ] [Deep JS](https://exploringjs.com/deep-js/toc.html)
   - [ ] [What the f*ck JavaScript?](https://github.com/denysdovhan/wtfjs)
 - **Functional JS:**
@@ -288,20 +288,20 @@ Here are some places where you can learn with others or ask questions when you g
   - [ ] [JavaScript Allongé](https://leanpub.com/javascriptallongesix/read)
   - [ ] 💲[Mastering JavaScript Functional Programming](https://www.packtpub.com/product/mastering-javascript-functional-programming-third-edition/9781804610138)
 - **Web components:**
-  - [x] [Rob Eisenberg - "Hello Web Components"](https://eisenbergeffect.medium.com/hello-web-components-795ed1bd108e)
-  - [x] [The Modern JavaScript Tutorial - Web Components](https://javascript.info/web-components)
-  - [x] [MDN - Web Components](https://developer.mozilla.org/en-US/docs/Web/API/Web_components)
+  - [ ] [Rob Eisenberg - "Hello Web Components"](https://eisenbergeffect.medium.com/hello-web-components-795ed1bd108e)
+  - [ ] [The Modern JavaScript Tutorial - Web Components](https://javascript.info/web-components)
+  - [ ] [MDN - Web Components](https://developer.mozilla.org/en-US/docs/Web/API/Web_components)
   - [ ] [Lit "Learn" resources](https://lit.dev/learn/) and a few code labs ([1](https://codelabs.developers.google.com/codelabs/the-lit-path), [2](https://codelabs.developers.google.com/codelabs/lit-2-for-react-devs), [3](https://open-wc.org/codelabs/basics/lit-html), [4](https://open-wc.org/codelabs/intermediate/lit-html))
   - [ ] SSR web components in Ruby with the upcoming [Heartml](https://heartml-docs.onrender.com/) (see [this Spicy Web article](https://www.spicyweb.dev/web-components-ssr-node/) for context)
 
 ### UI and usability
 
-- [x] 💲[Don't Make Me Think](https://sensible.com/dont-make-me-think/)
-- [x] 💲[The Design of Everyday Things](https://www.nngroup.com/books/design-everyday-things-revised/)
+- [ ] 💲[Don't Make Me Think](https://sensible.com/dont-make-me-think/)
+- [ ] 💲[The Design of Everyday Things](https://www.nngroup.com/books/design-everyday-things-revised/)
 - [ ] [Growth.Design](https://growth.design/)
 - [ ] [Roast My Landing Page blog](https://blog.roastmylandingpage.com/)
 - [ ] [George Moller - UI tips](https://georgemoller.gumroad.com/)
-- [x] [Victor Ponamariov - 50 UI Tips](https://fifty.user-interface.io/50_ui_tips.pdf)
+- [ ] [Victor Ponamariov - 50 UI Tips](https://fifty.user-interface.io/50_ui_tips.pdf)
 - [ ] [Victor Ponamariov - How to design almost any UI element](https://user-interface.io/articles/how-to-design-almost-any-ui-element)
 - [ ] 💲[Victor Ponamariov - 100 UI/UX Tips & Tricks](https://akcium.gumroad.com/l/ui-ux-tips) (or on [the landing page](https://hundred.user-interface.io/))
 - [ ] 💲[Victor Ponamariov - Re:Form](https://reform.user-interface.io/)
@@ -368,29 +368,29 @@ Here are some places where you can learn with others or ask questions when you g
 ## Expanding my horizons
 
 - **Be a mentor:**
-  - [x] [Exercism](https://exercism.org/mentoring)
+  - [ ] [Exercism](https://exercism.org/mentoring)
   - [ ] [First Ruby Friend](https://firstrubyfriend.org/mentors)
 - **Career advancement:**
-  - [x] [Engineering progression for humans](https://localghost.dev/blog/engineering-progression-for-humans/)
+  - [ ] [Engineering progression for humans](https://localghost.dev/blog/engineering-progression-for-humans/)
   - [ ] [Path to Senior Engineer handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook)
   - [ ] [Staff engineer archetypes](https://staffeng.com/guides/staff-archetypes/)
   - [ ] 💲[The Software Engineer's Guidebook](https://www.engguidebook.com)
   - [ ] 💲[The Staff Engineer's Path](https://www.oreilly.com/library/view/the-staff-engineers/9781098118723/)
   - [ ] 💲[The Tech Resume Inside Out](https://thetechresume.com/)
 - **Computer science:**
-  - [x] 💲[Code: The Hidden Language of Computer Hardware and Software](https://www.informit.com/store/code-the-hidden-language-of-computer-hardware-and-software-9780137909100)
+  - [ ] 💲[Code: The Hidden Language of Computer Hardware and Software](https://www.informit.com/store/code-the-hidden-language-of-computer-hardware-and-software-9780137909100)
   - [ ] [NandGame](https://nandgame.com)
-  - [x] From Nand to Tetris: [Part 1](https://www.coursera.org/learn/build-a-computer), [Part 2](https://www.coursera.org/learn/nand2tetris2), optionally with the textbook 💲[The Elements of Computing Systems: Building a Modern Computer from First Principles](https://mitpress.mit.edu/books/elements-computing-systems-second-edition)
-  - [x] 💲[Data Structures and Algorithms in Java](https://www.amazon.com/Data-Structures-Algorithms-Java-2nd/dp/0672324539)
+  - [ ] From Nand to Tetris: [Part 1](https://www.coursera.org/learn/build-a-computer), [Part 2](https://www.coursera.org/learn/nand2tetris2), optionally with the textbook 💲[The Elements of Computing Systems: Building a Modern Computer from First Principles](https://mitpress.mit.edu/books/elements-computing-systems-second-edition)
+  - [ ] 💲[Data Structures and Algorithms in Java](https://www.amazon.com/Data-Structures-Algorithms-Java-2nd/dp/0672324539)
   - [ ] 💲[The Algorithm Design Manual](https://www.algorist.com/) plus [lecture videos](https://www3.cs.stonybrook.edu/~skiena/373/videos/)
-  - [x] 💲[Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
+  - [ ] 💲[Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
   - [ ] 💲[Computer Systems: A Programmer's Perspective](https://csapp.cs.cmu.edu/)
   - [ ] [Crafting Interpreters](https://craftinginterpreters.com/)
 - **Coding challenges:**
   - [ ] [Advent of Code](https://adventofcode.com)
 - **Design patterns:**
-  - [x] 💲[Head First Design Patterns](https://www.oreilly.com/library/view/head-first-design/9781492077992/)
-  - [x] [Refactoring.Guru](https://refactoring.guru/)
+  - [ ] 💲[Head First Design Patterns](https://www.oreilly.com/library/view/head-first-design/9781492077992/)
+  - [ ] [Refactoring.Guru](https://refactoring.guru/)
   - [ ] [thoughtbot - Ruby Science](https://thoughtbot.com/ruby-science) (or [EPUB/PDF](https://thoughtbot.gumroad.com/l/ruby-science))
 - **Monitoring:**
   - [ ] 💲[Practical Monitoring](https://www.oreilly.com/library/view/practical-monitoring/9781491957349/)
